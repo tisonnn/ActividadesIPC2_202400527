@@ -1,0 +1,7 @@
+POST http://localhost:5079/api/nodos
+Content-Type: application/json
+
+{
+    "Id": 99,
+    "Valor": "Nodo de prueba"
+}
