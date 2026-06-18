@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
+    "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
+    "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+        "projectUniqueName": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "projectName": "ApiEstructurasDemo",
-        "projectPath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+        "projectPath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "packagesPath": "C:\\Users\\tyson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\obj\\",
+        "outputPath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyson\\AppData\\Roaming\\NuGet\\NuGet.Config",

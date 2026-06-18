@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fo2XPRmVuZw=",
+  "dgSpecHash": "Jh0XEBWVenI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+  "projectFilePath": "C:\\Users\\tyson\\Desktop\\VACACIONESJUNIO\\IPC2\\ActividadesIPC2_202400527\\Actividad11Junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tyson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
     "C:\\Users\\tyson\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
